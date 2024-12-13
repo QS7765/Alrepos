@@ -1,0 +1,6 @@
+GOOD!!!
+<<<<<<< HEAD
+Yes!
+=======
+yes
+>>>>>>> fa61b8d (file3 write yes)
