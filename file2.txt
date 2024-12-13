@@ -1,0 +1,2 @@
+Hello, World!
+Lesson of reset!
