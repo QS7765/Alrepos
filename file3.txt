@@ -1,2 +1,6 @@
 GOOD!!!
+<<<<<<< HEAD
 Yes!
+=======
+yes
+>>>>>>> c852ecf1f82b1e6d07349758c811ac6e95f7bee3
