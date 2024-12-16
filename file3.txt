@@ -3,4 +3,8 @@ GOOD!!!
 Yes!
 =======
 yes
+<<<<<<< HEAD
 >>>>>>> fa61b8d (file3 write yes)
+=======
+>>>>>>> c852ecf1f82b1e6d07349758c811ac6e95f7bee3
+>>>>>>> 7f089c95591a7c7e866d5f89d50ab1dc33b90d64

@@ -1,7 +1,12 @@
 My second Git!
+<<<<<<< HEAD
 hello i'm also with you
 <<<<<<< HEAD
 hi my dear friend
 
 =======
 >>>>>>> 3c42ae4 (Hello from file1)
+=======
+
+hello i'm also with you
+>>>>>>> 7f089c95591a7c7e866d5f89d50ab1dc33b90d64
